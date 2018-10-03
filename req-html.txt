@@ -1,0 +1,6 @@
+Ubaci navigation bar, imas na w3 school kako se pise.
+Stavi HOME i na home stavi neku sliku i neki tekst gde pise JavaScript zadaci.
+Stavi TASKS gde ce biti prikazani zadaci.
+Stavi ABOUT gde ces da napises nesto o sebi. Sredi taj tekst da bude lepo prikazan i da bude na sred stranice
+Posto ces da imas tri taba, onda moras da imas i tri html fajla (index.html za home, tasks.html, about.html)
+Nadji na netu kako se kroz navigation bar zovu html fajlovi, ako ne, pomocicu ti
