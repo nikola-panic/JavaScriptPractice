@@ -1,7 +1,0 @@
-Stavi neki background - pozadinu u boji
-Svaki task stavi u div sa granicom koja ima drugaciju boju od pozadine
-Stavi stil za headinge, koristi h3 ili h4 u zavisnosti od velicine. Promeni boju i font. Hedinge koristi za naslov, Zadatak 1, 2, 3...
-Stavi i stil za paragraf. Promeni boju i font
-Width and height za divove 100%. Da bi mogli da se menjaju u zavisnosti od velicine prozora
-Nadji na netu kako da kreiras css u posebnom fajlu
-Nadji na netu kako da u index.html importujes css

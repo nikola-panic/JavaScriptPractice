@@ -1,3 +1,0 @@
-Nadji na netu kako se pise javascript funkcija u odvojenom fajlu.
-Nadji na netu kako se importuje js u index.html
-Pisi sve funkcije u jednom js fajlu pa ih zovi u html. Ako ne budes znao kako, cimaj za pomoc
